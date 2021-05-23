@@ -4,7 +4,7 @@
   "description": "HII this is imp project",
   "main": "app.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "NIKHIL SAIN -- ADITYA KUMAWAT",
