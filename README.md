@@ -1,4 +1,4 @@
-# Fyle_Frontend_Part-2
+# Fyle Part-2
 
 ## Live Demo [Heroku Link](https://fyle2ans.herokuapp.com/)
 
