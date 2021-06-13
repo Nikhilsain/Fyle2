@@ -1,4 +1,3 @@
-# Fyle Part-2
 
 ## Live Demo [Heroku Link](https://fyle2ans.herokuapp.com/)
 
@@ -9,6 +8,6 @@
 3. Pagination for the results of the search, the user is able to select page size.
 4. Mark some banks as favourites.
 5. Marked Banks will appear even after reloading/refreshing site
-6. API calls (same api we deployed in Part1 Challange)
+6. API calls 
 7. List of the Banks ifsc which You marked fav(Favourites)
 
